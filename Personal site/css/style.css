@@ -1,0 +1,104 @@
+body{
+    margin:0;
+    text-align: center;
+    
+}
+
+h1{
+    color:#66bfbf;
+    margin:0;
+    font-size: 50px;
+    text-shadow: 2px 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    color:#66bfbf;
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+}
+
+h3{
+
+    color:#66bfbf;
+    font-size: 20px;
+}
+
+p{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.name{
+    text-shadow: 2px ;
+    color:#66bfbf;
+}
+
+.top {
+    margin: 0;
+    background-color:#b7cdf7;
+    padding-top: 100px;
+}
+
+.middle
+{   margin: 0;
+    
+}
+
+.bottom{
+    margin: 0;
+    background-color: #FF8B8B;
+}
+
+#self{
+
+    width: 20%;
+}
+.cloud1{
+
+    position: absolute;
+    padding-left: 150px;
+    
+}
+
+.cloud2{
+
+    position: absolute;
+    
+}
+
+.skill{
+
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    list-style: 2;
+
+}
+
+
+.app{
+
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+
+.computer{
+
+    float: right;
+    margin-left: 30px;
+    width: 25%;
+}
+
+.grnsrc{
+
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+
+}
+
+
